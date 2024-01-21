@@ -2,8 +2,7 @@ package edu.ilstu;
 
 import java.io.File;
 import java.util.Scanner;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
+
 /*
  * @author suhail Pradip Tailor
  * 
